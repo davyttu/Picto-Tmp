@@ -1,0 +1,22 @@
+{
+    "name": "My Token List",
+    "logoURI": " https://github.com/davyttu/Picto-Tmp/raw/main/picto%20Trumpee%20(1).png?raw=true",
+    "keywords": ["base", "memecoin", "rewards", "trumpee", "cryptocurrency","AI" ],
+    "timestamp": "2025-01-23T00:00:00Z",
+    "tokens": [
+      {
+        "chainId": 8453, 
+        "address": "0x438f3e402Cd1eEe3d2Fb4Fb79f7900e8DAFCbFdf",
+        "name": "Trumpee",
+        "symbol": "Tmp",
+        "decimals": 18,
+        "logoURI": " https://github.com/davyttu/Picto-Tmp/raw/main/picto%20Trumpee%20(1).png?raw=true"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
